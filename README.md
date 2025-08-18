@@ -14,3 +14,15 @@ A lightweight, markdown-first watchlist for tokens you follow on.
 • Fetch.ai (FET)
 • Chainlink (LINK)
 > Sources: CoinGecko / CoinMarketCap for prices; Basescan + official docs for contract addresses.
+
+
+## 📊 Price Updates
+For detailed daily price snapshots and change percentages, please see:  
+[crypto-prices.md](./crypto-prices.md)
+
+---
+
+### Sources
+- [CoinGecko](https://www.coingecko.com)
+- [CoinMarketCap](https://coinmarketcap.com)
+- Dexscreener for on-chain Base tokens
